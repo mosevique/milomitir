@@ -1,8 +1,3 @@
----
-layout: post
-title:  "PROGRAMMING MONSTER"
----
-
 # PROGRAMMING MONSTER
 
 One of the projects I've been working on recently is programming a video game using the Pico-8 console. The game is intended to be a Pokemon-like RPG which incorporates some ideas I've used in previous BASH games. The limitations of the Pico-8 console reduces the scope of what a monster training RPG can offer, but I've spun up a few ideas that can, hopefully, make extensive use of what little resources I have.
