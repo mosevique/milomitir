@@ -1,5 +1,6 @@
 # Game Night
 ### List of games played for Game Night
+#### Currently Playing - `Wo Long: Fallen Dynasty`
 |Game|Status|
 |---|---|
 |Elden Ring|Completed|
@@ -15,7 +16,6 @@
 |No Man's Sky|Abandoned|
 |Back 4 Blood|Abandoned|
 |Stardew Valley|Abandoned|
-|Wo Long: Fallen Dynasty|Currently Playing|
 
 **Completed: 6**
 
