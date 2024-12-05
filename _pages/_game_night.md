@@ -2,7 +2,7 @@
 ### List of games played for Game Night
 #### Currently Playing - `Wo Long: Fallen Dynasty`
 |Game|Status|
-|---|---|
+|:---|:---:|
 |Elden Ring|Completed|
 |Elden Ring: Shadow of the Erdtree|Completed|
 |Sea of Theives|Abandoned|
